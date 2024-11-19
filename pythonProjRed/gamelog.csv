@@ -1,0 +1,24 @@
+Player,Team,Game_ID,Minutes,Game Started,FGM,FGA,TPM,TPA,FTM,FTA,OREB,DREB,Ast,TO,Stl,Blk,PF,+/-
+"Buie, B.",Northwestern Wildcats,2,40,True,1,2,1,1,0,0,0,0,1,0,0,0,0,7
+"Berry, T.",Northwestern Wildcats,2,40,True,0,1,0,0,0,0,0,0,1,0,0,0,0,7
+"Audige, C.",Northwestern Wildcats,2,40,True,1,1,0,0,0,0,0,0,0,0,0,1,1,7
+"Beran, R.",Northwestern Wildcats,2,40,True,2,2,0,0,0,0,1,2,0,0,0,0,1,7
+"Nicholson, M.",Northwestern Wildcats,2,40,True,0,1,0,0,0,0,0,2,0,1,0,2,2,7
+"Barnhizer, B.",Northwestern Wildcats,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Verhoeven, T.",Northwestern Wildcats,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Martinelli, N.",Northwestern Wildcats,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Llewellyn, J.",Michigan Wolverines,2,40,True,0,1,0,0,2,2,0,0,0,0,0,0,0,-7
+"Bufkin, K.",Michigan Wolverines,2,40,True,0,2,0,0,0,0,0,1,0,0,0,0,0,-7
+"Howard, J.",Michigan Wolverines,2,40,True,0,1,0,1,0,0,0,0,0,0,0,0,0,-7
+"Williams, T.",Michigan Wolverines,2,40,True,0,0,0,0,0,0,0,0,0,1,0,0,0,-7
+"Dickinson, H.",Michigan Wolverines,2,40,True,0,2,0,0,0,0,0,1,0,0,0,1,0,-7
+"McDaniel, D.",Michigan Wolverines,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Baker, J.",Michigan Wolverines,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Reed, T.",Michigan Wolverines,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tschetter, W.",Michigan Wolverines,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Howard, J.",Michigan Wolverines,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Khayat, Y.",Michigan Wolverines,2,0,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+
+Team,Game_ID,FGM,FGA,TPM,TPA,FTM,FTA,OREB,DREB,Ast,TO,Stl,Blk,PF
+Northwestern Wildcats,2,4,7,1,1,0,0,1,2,2,1,0,3,4
+Michigan Wolverines,2,0,6,0,1,2,2,0,5,0,1,0,1,0
